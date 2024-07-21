@@ -1,0 +1,16 @@
+Hello,
+
+I’m encountering an issue with loading the Kafka plugin in EMQX. When attempting to start the Kafka plugin, I receive the error: parse_config_file_failed.
+
+Steps Taken:
+
+Added emqx_plugin_kafka.conf to /opt/emqx/etc/plugins/.
+Configured the file as per documentation.
+Set file permissions to -rw-rw-r--.
+Restarted EMQX.
+Despite these steps, the error persists. Could you please advise on a solution or provide insights into the possible cause?
+
+Additional Information:
+
+Thank you for your assistance.
+
